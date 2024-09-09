@@ -1,0 +1,2 @@
+0;Matematica;Aniela;
+1;Informatica;Razvan;
